@@ -11,6 +11,6 @@ import { searchTermReducer } from '../features/searchTerm/searchTermSlice.js';
 export const store = createStore(combineReducers({
     inventory: inventoryReducer,
     cart: cartReducer,
-    currency: currencyFilterReducer,
+    currencyFilter: currencyFilterReducer,
     searchTerm: searchTermReducer
 }));

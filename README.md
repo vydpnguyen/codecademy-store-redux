@@ -1,3 +1,13 @@
+# About
+
+This is my project for Codecademy's practice project named <strong>Codecademy Store</strong> in the <strong>Full Stack Engineer</strong> path. Note: The initial commit includes default files provided by Codecademy (www.codecademy.com). I have built upon this starting point to develop the project further.
+
+# Project Description
+
+In this project, you’ll build a program that mimics Codecademy’s own online store! The application should display products from the Codecademy store and allow the user to add them to their cart. In the cart, the user can adjust the quantity of each item and the running total will be displayed at the bottom. Lastly, the user can choose the currency for the entire application.
+
+![Codecademy Store](/public/codecademy-store.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
