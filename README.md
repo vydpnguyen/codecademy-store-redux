@@ -1,6 +1,6 @@
 # About
 
-This is my project for Codecademy's practice project named <strong>Codecademy Store</strong> in the <strong>Full Stack Engineer</strong> path. Note: The initial commit includes default files provided by Codecademy (www.codecademy.com). I have built upon this starting point to develop the project further.
+This is my project for Codecademy's practice project named <strong>Codecademy Store</strong> in the <strong>Full Stack Engineer</strong> path. **Note:** The initial commit includes default files provided by Codecademy (www.codecademy.com). I have built upon this starting point to develop the project further.
 
 # Project Description
 
